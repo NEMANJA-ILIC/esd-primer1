@@ -3,3 +3,5 @@ Moj naslov text fajla
 Prvi red sadrzi nesto.
 Drugi red
 Treci red
+
+Izmena iz moje nove grane.
