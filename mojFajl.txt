@@ -1,0 +1,5 @@
+Moj naslov text fajla
+
+Prvi red
+Drugi red
+Treci red
