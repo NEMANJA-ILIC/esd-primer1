@@ -1,5 +1,5 @@
 Moj naslov text fajla
 
-Prvi red
+Prvi red sadrzi nesto.
 Drugi red
 Treci red
